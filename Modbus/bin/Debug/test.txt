@@ -1,0 +1,23 @@
+12.09.2022 9:45:54.06 FC3 (Read Holding Registers from Master device), StartingAddress: 0, Quantity: 1
+12.09.2022 9:45:54.07 Send ModbusTCP-Data: 00-01-00-00-00-06-01-03-00-00-00-01
+12.09.2022 9:46:06.38 Destructor called - automatically disconnect
+12.09.2022 9:46:41.62 FC3 (Read Holding Registers from Master device), StartingAddress: 0, Quantity: 1
+12.09.2022 9:46:41.62 Send ModbusTCP-Data: 00-01-00-00-00-06-01-03-00-00-00-01
+12.09.2022 9:46:43.36 Disconnect
+12.09.2022 9:46:44.99 Destructor called - automatically disconnect
+12.09.2022 9:47:54.89 FC3 (Read Holding Registers from Master device), StartingAddress: 0, Quantity: 1
+12.09.2022 9:47:54.89 Send ModbusTCP-Data: 00-01-00-00-00-06-01-03-00-00-00-01
+12.09.2022 9:47:59.26 Disconnect
+12.09.2022 9:48:00.91 Destructor called - automatically disconnect
+12.09.2022 9:49:25.32 Open TCP-Socket, IP-Address: 127.0.0.1, Port: 502
+12.09.2022 9:49:29.35 FC3 (Read Holding Registers from Master device), StartingAddress: 0, Quantity: 1
+12.09.2022 9:49:29.35 Send ModbusTCP-Data: 00-01-00-00-00-06-01-03-00-00-00-01
+12.09.2022 9:49:30.63 Destructor called - automatically disconnect
+12.09.2022 9:49:39.89 Open TCP-Socket, IP-Address: 127.0.0.1, Port: 502
+12.09.2022 9:49:44.81 Disconnect
+12.09.2022 9:49:46.54 Open TCP-Socket, IP-Address: 127.0.0., Port: 502
+12.09.2022 9:49:52.92 Destructor called - automatically disconnect
+12.09.2022 9:50:37.53 Open TCP-Socket, IP-Address: 127.0.0.1, Port: 502
+12.09.2022 9:50:46.83 Disconnect
+12.09.2022 9:50:50.76 Open TCP-Socket, IP-Address: 127.0.0., Port: 502
+12.09.2022 9:50:54.89 Destructor called - automatically disconnect

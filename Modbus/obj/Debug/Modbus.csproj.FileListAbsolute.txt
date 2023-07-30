@@ -1,0 +1,45 @@
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\Modbus.exe.config
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\Modbus.exe
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\Modbus.pdb
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\EasyModbus.dll
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.SuggestedBindingRedirects.cache
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\obj\Debug\Modbus.Form1.resources
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\obj\Debug\Modbus.Properties.Resources.resources
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.GenerateResource.cache
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\obj\Debug\Modbus.exe
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\obj\Debug\Modbus.pdb
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\System.Buffers.dll
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\System.Memory.dll
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\System.Buffers.xml
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\System.Memory.xml
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cceli\Desktop\Modbus\Modbus\Modbus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\Modbus.exe.config
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\Modbus.exe
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\Modbus.pdb
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\EasyModbus.dll
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\System.Buffers.dll
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\System.Numerics.Vectors.dll
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\System.Buffers.xml
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\System.Memory.xml
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\System.Numerics.Vectors.xml
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.SuggestedBindingRedirects.cache
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\obj\Debug\Modbus.Form1.resources
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\obj\Debug\Modbus.Properties.Resources.resources
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.GenerateResource.cache
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\obj\Debug\Modbus.csproj.CopyComplete
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\obj\Debug\Modbus.exe
+D:\YEDEK\3. Sınıf\Donanım Stajı\Modbus\Modbus\Modbus\obj\Debug\Modbus.pdb
